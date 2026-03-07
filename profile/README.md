@@ -1,3 +1,5 @@
+[![committers.top badge](https://org-badge.committers.top/uganda/Concept-Crashers.svg)](https://org-badge.committers.top/uganda/Concept-Crashers)
+
 # 🚀 Concept Crashers: Full-Service Software Development
 
 ## Full-Service Software Development for a Smarter Future
