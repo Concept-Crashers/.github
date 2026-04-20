@@ -75,6 +75,6 @@ Ready to innovate and grow your business with a smart, scalable software solutio
 
 **Contact us today to schedule a discovery session.**
 
-**https://conceptcrashers.onrender.com** **🌐**
+**https://conceptcrashers.tech** **🌐**
 **+256 786021431 / +256 742685864** **📧**
 **conceptcrashers256@gmail.com** **✉️**
