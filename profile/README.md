@@ -36,7 +36,7 @@ We work with industry-leading tools to ensure maximum performance and long-term 
 ### Backend & Data
 | Icon | Category | Key Technologies |
 | :---: | :--- | :--- |
-| 🟢 | **Languages** | **Node.js**, **Python**, Java, Go |
+| 🟢 | **Languages** | **Node.js**, **Python**, Java |
 | 🐘 | **Databases** | **PostgreSQL**, MongoDB, MySQL, Redis |
 | 🔗 | **API Development** | RESTful APIs, **GraphQL** |
 *Building powerful, reliable, and secure server-side logic and flexible data layers.*
@@ -77,6 +77,6 @@ Ready to innovate and grow your business with a smart, scalable software solutio
 
 **Contact us today to schedule a discovery session.**
 
-**https://conceptcrashers.com** **🌐**
+**https://conceptcrashers.onrender.com** **🌐**
 **+256 786021431 / +256 742685864** **📧**
 **conceptcrashers256@gmail.com** **✉️**
